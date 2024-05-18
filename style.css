@@ -1,0 +1,42 @@
+body {
+    font-family: sans-serif;
+}
+.t{
+    text-align: center;
+    font-size: 40px ;
+    border: 5px double red;
+}
+.h{
+    font-size: 20px ;
+    border: 5px double red; 
+    padding: 30px;
+}
+.j{
+ border: 5px double blue;
+ font-size: 40px;
+ padding: 30px;
+ text-align: center;
+}
+.l{
+    font-size: 20px ;
+    border: 5px double blue; 
+    padding: 30px;
+}
+h2{
+    font-size: 30px;
+    text-align: center;
+    background-color: rgb(75, 196, 129);
+}
+p{
+    font-style: normal;
+    font-size: 40px;
+    border: 5px solid greenyellow;
+    background-color: rgb(169, 255, 169);
+}
+h1{
+    font-size:80px;
+}
+.d :hover{
+ transform: translateY(200px);
+ transition: 5s linear;
+}
